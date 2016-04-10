@@ -1,9 +1,9 @@
 Package: proteinProfiles
 Type: Package
 Title: Protein Profiling
-Version: 1.10.0
+Version: 1.10.1
 Author: Julian Gehring
-Maintainer: Julian Gehring <julian.gehring@embl.de>
+Maintainer: Julian Gehring <jg-bico@gmx.com>
 Imports: graphics, stats
 Depends: R (>= 2.15.2)
 Suggests: testthat
